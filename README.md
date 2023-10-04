@@ -2,7 +2,9 @@
 
 ### Step-1- Clone the project into your system
 
-```git clone git@github.com:subin989/search-functionality-dsl.git ```
+``` bash
+git clone git@github.com:subin989/search-functionality-dsl.git
+```
 
 ### Step-2- Install the virtual environment
 
